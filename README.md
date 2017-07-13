@@ -1,7 +1,7 @@
 # git
 some notes about git
 
-## create new repository
+## A.create new repository
 ### 1.add a new repository in github
 ### 2.clone in local
 ```
@@ -23,9 +23,14 @@ git push origin [master or branchname]
 ```
 and then enter your github username and password 
 
-## pull file from remote
+## B.pull file from remote
 ```
 git pull
+
+```
+## see commit status
+```
+git status
 ```
 
 
